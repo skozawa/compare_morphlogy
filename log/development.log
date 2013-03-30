@@ -1,0 +1,541 @@
+[Sat Mar 30 10:13:08 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Mar 30 10:13:08 2013] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:13:08 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "welcome".
+[Sat Mar 30 10:13:08 2013] [debug] Rendering template "example/welcome.html.ep".
+[Sat Mar 30 10:13:08 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sat Mar 30 10:13:08 2013] [debug] 200 OK (0.019145s, 52.233/s).
+[Sat Mar 30 10:20:40 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Mar 30 10:20:40 2013] [debug] GET /welcome (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:20:40 2013] [debug] Template "not_found.development.html.ep" not found.
+[Sat Mar 30 10:20:40 2013] [debug] Template "not_found.html.ep" not found.
+[Sat Mar 30 10:20:40 2013] [debug] Rendering inline template.
+[Sat Mar 30 10:20:40 2013] [debug] Rendering inline template.
+[Sat Mar 30 10:20:40 2013] [debug] 404 Not Found (0.016402s, 60.968/s).
+[Sat Mar 30 10:20:40 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Mar 30 10:20:49 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Mar 30 10:20:49 2013] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:20:49 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "welcome".
+[Sat Mar 30 10:20:49 2013] [debug] Rendering template "example/welcome.html.ep".
+[Sat Mar 30 10:20:49 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sat Mar 30 10:20:49 2013] [debug] 200 OK (0.023941s, 41.769/s).
+[Sat Mar 30 10:20:54 2013] [debug] GET /index (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:20:54 2013] [debug] Template "not_found.development.html.ep" not found.
+[Sat Mar 30 10:20:54 2013] [debug] Template "not_found.html.ep" not found.
+[Sat Mar 30 10:20:54 2013] [debug] Rendering inline template.
+[Sat Mar 30 10:20:54 2013] [debug] Rendering inline template.
+[Sat Mar 30 10:20:54 2013] [debug] 404 Not Found (0.022591s, 44.265/s).
+[Sat Mar 30 10:22:36 2013] [debug] GET /index (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:22:36 2013] [debug] Template "not_found.development.html.ep" not found.
+[Sat Mar 30 10:22:36 2013] [debug] Template "not_found.html.ep" not found.
+[Sat Mar 30 10:22:36 2013] [debug] Rendering cached inline template.
+[Sat Mar 30 10:22:36 2013] [debug] Rendering cached inline template.
+[Sat Mar 30 10:22:36 2013] [debug] 404 Not Found (0.010958s, 91.258/s).
+[Sat Mar 30 10:25:35 2013] [debug] GET /welcome (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:25:35 2013] [debug] Template "not_found.development.html.ep" not found.
+[Sat Mar 30 10:25:35 2013] [debug] Template "not_found.html.ep" not found.
+[Sat Mar 30 10:25:35 2013] [debug] Rendering cached inline template.
+[Sat Mar 30 10:25:35 2013] [debug] Rendering cached inline template.
+[Sat Mar 30 10:25:35 2013] [debug] 404 Not Found (0.007775s, 128.617/s).
+[Sat Mar 30 10:25:42 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Mar 30 10:25:42 2013] [debug] GET /welcome (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:25:42 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "welcome".
+[Sat Mar 30 10:25:42 2013] [debug] Rendering template "example/welcome.html.ep".
+[Sat Mar 30 10:25:42 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sat Mar 30 10:25:42 2013] [debug] 200 OK (0.018901s, 52.907/s).
+[Sat Mar 30 10:26:59 2013] [info] Listening at "http://*:3000".
+[Sat Mar 30 10:27:05 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Mar 30 10:27:05 2013] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:27:05 2013] [debug] Template "not_found.development.html.ep" not found.
+[Sat Mar 30 10:27:05 2013] [debug] Template "not_found.html.ep" not found.
+[Sat Mar 30 10:27:05 2013] [debug] Rendering inline template.
+[Sat Mar 30 10:27:05 2013] [debug] Rendering inline template.
+[Sat Mar 30 10:27:05 2013] [debug] 404 Not Found (0.018802s, 53.186/s).
+[Sat Mar 30 10:27:09 2013] [debug] GET /welcom (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:27:09 2013] [debug] Template "not_found.development.html.ep" not found.
+[Sat Mar 30 10:27:09 2013] [debug] Template "not_found.html.ep" not found.
+[Sat Mar 30 10:27:09 2013] [debug] Rendering cached inline template.
+[Sat Mar 30 10:27:09 2013] [debug] Rendering cached inline template.
+[Sat Mar 30 10:27:09 2013] [debug] 404 Not Found (0.007065s, 141.543/s).
+[Sat Mar 30 10:27:10 2013] [debug] GET /welcome (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:27:10 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "welcome".
+[Sat Mar 30 10:27:10 2013] [debug] Rendering template "example/welcome.html.ep".
+[Sat Mar 30 10:27:10 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sat Mar 30 10:27:10 2013] [debug] 200 OK (0.005804s, 172.295/s).
+[Sat Mar 30 10:27:28 2013] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:27:28 2013] [debug] Template "not_found.development.html.ep" not found.
+[Sat Mar 30 10:27:28 2013] [debug] Template "not_found.html.ep" not found.
+[Sat Mar 30 10:27:28 2013] [debug] Rendering cached inline template.
+[Sat Mar 30 10:27:28 2013] [debug] Rendering cached inline template.
+[Sat Mar 30 10:27:28 2013] [debug] 404 Not Found (0.005184s, 192.901/s).
+[Sat Mar 30 10:27:37 2013] [info] Listening at "http://*:3000".
+[Sat Mar 30 10:27:39 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Mar 30 10:27:39 2013] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:27:39 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "index".
+[Sat Mar 30 10:27:39 2013] [debug] Template "welcome.html.ep" not found.
+[Sat Mar 30 10:27:39 2013] [debug] Template "example/index.html.ep" not found.
+[Sat Mar 30 10:27:39 2013] [debug] Nothing has been rendered, expecting delayed response.
+[Sat Mar 30 10:28:04 2013] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:28:04 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "index".
+[Sat Mar 30 10:28:04 2013] [debug] Template "welcome.html.ep" not found.
+[Sat Mar 30 10:28:04 2013] [debug] Template "example/index.html.ep" not found.
+[Sat Mar 30 10:28:04 2013] [debug] Nothing has been rendered, expecting delayed response.
+[Sat Mar 30 10:28:12 2013] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:28:12 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "index".
+[Sat Mar 30 10:28:12 2013] [debug] Template "welcome.html.ep" not found.
+[Sat Mar 30 10:28:12 2013] [debug] Template "example/index.html.ep" not found.
+[Sat Mar 30 10:28:12 2013] [debug] Nothing has been rendered, expecting delayed response.
+[Sat Mar 30 10:28:26 2013] [debug] GET /welcome (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:28:26 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "welcome".
+[Sat Mar 30 10:28:26 2013] [debug] Rendering template "example/welcome.html.ep".
+[Sat Mar 30 10:28:26 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sat Mar 30 10:28:26 2013] [debug] 200 OK (0.016352s, 61.155/s).
+[Sat Mar 30 10:28:33 2013] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:28:33 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "index".
+[Sat Mar 30 10:28:33 2013] [debug] Template "welcome.html.ep" not found.
+[Sat Mar 30 10:28:33 2013] [debug] Template "example/index.html.ep" not found.
+[Sat Mar 30 10:28:33 2013] [debug] Nothing has been rendered, expecting delayed response.
+[Sat Mar 30 10:28:48 2013] [debug] Inactivity timeout.
+[Sat Mar 30 10:28:48 2013] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:28:48 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "index".
+[Sat Mar 30 10:28:48 2013] [debug] Template "welcome.html.ep" not found.
+[Sat Mar 30 10:28:48 2013] [debug] Template "example/index.html.ep" not found.
+[Sat Mar 30 10:28:48 2013] [debug] Nothing has been rendered, expecting delayed response.
+[Sat Mar 30 10:29:04 2013] [debug] Inactivity timeout.
+[Sat Mar 30 10:29:13 2013] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:29:13 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "index".
+[Sat Mar 30 10:29:13 2013] [debug] Template "welcome.html.ep" not found.
+[Sat Mar 30 10:29:13 2013] [debug] Template "example/index.html.ep" not found.
+[Sat Mar 30 10:29:13 2013] [debug] Nothing has been rendered, expecting delayed response.
+[Sat Mar 30 10:29:29 2013] [debug] Inactivity timeout.
+[Sat Mar 30 10:29:30 2013] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:29:30 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "index".
+[Sat Mar 30 10:29:30 2013] [debug] Template "welcome.html.ep" not found.
+[Sat Mar 30 10:29:30 2013] [debug] Template "example/index.html.ep" not found.
+[Sat Mar 30 10:29:30 2013] [debug] Nothing has been rendered, expecting delayed response.
+[Sat Mar 30 10:29:44 2013] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:29:44 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "index".
+[Sat Mar 30 10:29:44 2013] [debug] Template "welcome.html.ep" not found.
+[Sat Mar 30 10:29:44 2013] [debug] Template "example/index.html.ep" not found.
+[Sat Mar 30 10:29:44 2013] [debug] Nothing has been rendered, expecting delayed response.
+[Sat Mar 30 10:29:51 2013] [info] Listening at "http://*:3000".
+[Sat Mar 30 10:29:52 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Mar 30 10:29:52 2013] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:29:52 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "index".
+[Sat Mar 30 10:29:52 2013] [debug] Template "example/index.html.ep" not found.
+[Sat Mar 30 10:29:52 2013] [debug] Template "example/index.html.ep" not found.
+[Sat Mar 30 10:29:52 2013] [debug] Nothing has been rendered, expecting delayed response.
+[Sat Mar 30 10:30:08 2013] [debug] Inactivity timeout.
+[Sat Mar 30 10:30:22 2013] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:30:22 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "index".
+[Sat Mar 30 10:30:22 2013] [debug] Template "example/index.html.ep" not found.
+[Sat Mar 30 10:30:22 2013] [debug] Template "example/index.html.ep" not found.
+[Sat Mar 30 10:30:22 2013] [debug] Nothing has been rendered, expecting delayed response.
+[Sat Mar 30 10:30:28 2013] [debug] GET /welcome (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:30:28 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "welcome".
+[Sat Mar 30 10:30:28 2013] [debug] Rendering template "example/welcome.html.ep".
+[Sat Mar 30 10:30:28 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sat Mar 30 10:30:28 2013] [debug] 200 OK (0.013424s, 74.493/s).
+[Sat Mar 30 10:30:35 2013] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:30:35 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "index".
+[Sat Mar 30 10:30:35 2013] [debug] Template "example/index.html.ep" not found.
+[Sat Mar 30 10:30:35 2013] [debug] Template "example/index.html.ep" not found.
+[Sat Mar 30 10:30:35 2013] [debug] Nothing has been rendered, expecting delayed response.
+[Sat Mar 30 10:30:50 2013] [debug] Inactivity timeout.
+[Sat Mar 30 10:30:50 2013] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:30:50 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "index".
+[Sat Mar 30 10:30:50 2013] [debug] Template "example/index.html.ep" not found.
+[Sat Mar 30 10:30:50 2013] [debug] Template "example/index.html.ep" not found.
+[Sat Mar 30 10:30:50 2013] [debug] Nothing has been rendered, expecting delayed response.
+[Sat Mar 30 10:31:05 2013] [debug] Inactivity timeout.
+[Sat Mar 30 10:31:43 2013] [info] Listening at "http://*:3000".
+[Sat Mar 30 10:31:52 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Mar 30 10:31:52 2013] [debug] GET /index (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:31:52 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "index".
+[Sat Mar 30 10:31:52 2013] [debug] Template "example/index.html.ep" not found.
+[Sat Mar 30 10:31:52 2013] [debug] Template "example/index.html.ep" not found.
+[Sat Mar 30 10:31:52 2013] [debug] Nothing has been rendered, expecting delayed response.
+[Sat Mar 30 10:32:08 2013] [debug] Inactivity timeout.
+[Sat Mar 30 10:34:22 2013] [debug] GET /welcome (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:34:22 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "welcome".
+[Sat Mar 30 10:34:22 2013] [debug] Rendering template "example/welcome.html.ep".
+[Sat Mar 30 10:34:22 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sat Mar 30 10:34:22 2013] [debug] 200 OK (0.019875s, 50.314/s).
+[Sat Mar 30 10:34:35 2013] [debug] GET /welcome (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:34:35 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "welcome".
+[Sat Mar 30 10:34:35 2013] [debug] Rendering cached template example/welcome.html.ep.
+[Sat Mar 30 10:34:35 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sat Mar 30 10:34:35 2013] [debug] 200 OK (0.003348s, 298.686/s).
+[Sat Mar 30 10:34:38 2013] [info] Listening at "http://*:3000".
+[Sat Mar 30 10:34:40 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Mar 30 10:34:40 2013] [debug] GET /welcome (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:34:40 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "index".
+[Sat Mar 30 10:34:40 2013] [debug] Template "example/index.html.ep" not found.
+[Sat Mar 30 10:34:40 2013] [debug] Template "example/index.html.ep" not found.
+[Sat Mar 30 10:34:40 2013] [debug] Nothing has been rendered, expecting delayed response.
+[Sat Mar 30 10:34:55 2013] [debug] Inactivity timeout.
+[Sat Mar 30 10:35:34 2013] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:35:34 2013] [debug] Template "not_found.development.html.ep" not found.
+[Sat Mar 30 10:35:34 2013] [debug] Template "not_found.html.ep" not found.
+[Sat Mar 30 10:35:34 2013] [debug] Rendering inline template.
+[Sat Mar 30 10:35:34 2013] [debug] Rendering inline template.
+[Sat Mar 30 10:35:34 2013] [debug] 404 Not Found (0.016752s, 59.694/s).
+[Sat Mar 30 10:36:00 2013] [debug] GET /welcome (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:36:00 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "index".
+[Sat Mar 30 10:36:00 2013] [debug] Template "example/index.html.ep" not found.
+[Sat Mar 30 10:36:00 2013] [debug] Template "example/index.html.ep" not found.
+[Sat Mar 30 10:36:00 2013] [debug] Nothing has been rendered, expecting delayed response.
+[Sat Mar 30 10:36:15 2013] [debug] Inactivity timeout.
+[Sat Mar 30 10:36:22 2013] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:36:22 2013] [debug] Template "not_found.development.html.ep" not found.
+[Sat Mar 30 10:36:22 2013] [debug] Template "not_found.html.ep" not found.
+[Sat Mar 30 10:36:22 2013] [debug] Rendering cached inline template.
+[Sat Mar 30 10:36:22 2013] [debug] Rendering cached inline template.
+[Sat Mar 30 10:36:22 2013] [debug] 404 Not Found (0.007746s, 129.099/s).
+[Sat Mar 30 10:36:34 2013] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:36:34 2013] [debug] Template "not_found.development.html.ep" not found.
+[Sat Mar 30 10:36:34 2013] [debug] Template "not_found.html.ep" not found.
+[Sat Mar 30 10:36:34 2013] [debug] Rendering cached inline template.
+[Sat Mar 30 10:36:34 2013] [debug] Rendering cached inline template.
+[Sat Mar 30 10:36:34 2013] [debug] 404 Not Found (0.005897s, 169.578/s).
+[Sat Mar 30 10:36:38 2013] [info] Listening at "http://*:3000".
+[Sat Mar 30 10:36:41 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Mar 30 10:36:41 2013] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:36:41 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "index".
+[Sat Mar 30 10:36:41 2013] [debug] Template "example/index.html.ep" not found.
+[Sat Mar 30 10:36:41 2013] [debug] Template "example/index.html.ep" not found.
+[Sat Mar 30 10:36:41 2013] [debug] Nothing has been rendered, expecting delayed response.
+[Sat Mar 30 10:36:57 2013] [debug] Inactivity timeout.
+[Sat Mar 30 10:37:32 2013] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:37:32 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "index".
+[Sat Mar 30 10:37:32 2013] [debug] Template "example/index.html.ep" not found.
+[Sat Mar 30 10:37:32 2013] [debug] Template "example/index.html.ep" not found.
+[Sat Mar 30 10:37:32 2013] [debug] Nothing has been rendered, expecting delayed response.
+[Sat Mar 30 10:37:41 2013] [info] Listening at "http://*:3000".
+[Sat Mar 30 10:37:45 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Mar 30 10:37:45 2013] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:37:45 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "index".
+[Sat Mar 30 10:37:45 2013] [debug] Template "example/index.html.ep" not found.
+[Sat Mar 30 10:37:45 2013] [debug] Template "example/index.html.ep" not found.
+[Sat Mar 30 10:37:45 2013] [debug] Nothing has been rendered, expecting delayed response.
+[Sat Mar 30 10:38:00 2013] [debug] Inactivity timeout.
+[Sat Mar 30 10:38:10 2013] [info] Listening at "http://*:3000".
+[Sat Mar 30 10:38:11 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Mar 30 10:38:11 2013] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:38:11 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "index".
+[Sat Mar 30 10:38:11 2013] [debug] Template "example/index.html.ep" not found.
+[Sat Mar 30 10:38:11 2013] [debug] Template "example/index.html.ep" not found.
+[Sat Mar 30 10:38:11 2013] [debug] Nothing has been rendered, expecting delayed response.
+[Sat Mar 30 10:38:27 2013] [debug] Inactivity timeout.
+[Sat Mar 30 10:38:41 2013] [info] Listening at "http://*:3000".
+[Sat Mar 30 10:38:44 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Mar 30 10:38:44 2013] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:38:44 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "welcome".
+[Sat Mar 30 10:38:44 2013] [debug] Rendering template "example/welcome.html.ep".
+[Sat Mar 30 10:38:44 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sat Mar 30 10:38:44 2013] [debug] 200 OK (0.016818s, 59.460/s).
+[Sat Mar 30 10:39:16 2013] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:39:16 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "welcome".
+[Sat Mar 30 10:39:16 2013] [debug] Rendering cached template example/welcome.html.ep.
+[Sat Mar 30 10:39:16 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sat Mar 30 10:39:16 2013] [debug] 200 OK (0.001926s, 519.211/s).
+[Sat Mar 30 10:39:19 2013] [info] Listening at "http://*:3000".
+[Sat Mar 30 10:39:21 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Mar 30 10:39:21 2013] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:39:21 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "index".
+[Sat Mar 30 10:39:21 2013] [debug] Template "example/index.html.ep" not found.
+[Sat Mar 30 10:39:21 2013] [debug] Template "example/index.html.ep" not found.
+[Sat Mar 30 10:39:21 2013] [debug] Nothing has been rendered, expecting delayed response.
+[Sat Mar 30 10:39:37 2013] [debug] Inactivity timeout.
+[Sat Mar 30 10:39:54 2013] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:39:54 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "index".
+[Sat Mar 30 10:39:54 2013] [debug] Template "example/index.html.ep" not found.
+[Sat Mar 30 10:39:54 2013] [debug] Template "example/index.html.ep" not found.
+[Sat Mar 30 10:39:54 2013] [debug] Nothing has been rendered, expecting delayed response.
+[Sat Mar 30 10:40:02 2013] [info] Listening at "http://*:3000".
+[Sat Mar 30 10:40:04 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Mar 30 10:40:04 2013] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:40:04 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "welcome2".
+[Sat Mar 30 10:40:04 2013] [debug] Action not found in controller.
+[Sat Mar 30 10:40:04 2013] [debug] Template "example/welcome2.html.ep" not found.
+[Sat Mar 30 10:40:04 2013] [debug] Template "not_found.development.html.ep" not found.
+[Sat Mar 30 10:40:04 2013] [debug] Template "not_found.html.ep" not found.
+[Sat Mar 30 10:40:04 2013] [debug] Rendering inline template.
+[Sat Mar 30 10:40:04 2013] [debug] Rendering inline template.
+[Sat Mar 30 10:40:04 2013] [debug] 404 Not Found (0.016405s, 60.957/s).
+[Sat Mar 30 10:40:07 2013] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:40:07 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "welcome2".
+[Sat Mar 30 10:40:07 2013] [debug] Action not found in controller.
+[Sat Mar 30 10:40:07 2013] [debug] Template "example/welcome2.html.ep" not found.
+[Sat Mar 30 10:40:07 2013] [debug] Template "not_found.development.html.ep" not found.
+[Sat Mar 30 10:40:07 2013] [debug] Template "not_found.html.ep" not found.
+[Sat Mar 30 10:40:07 2013] [debug] Rendering cached inline template.
+[Sat Mar 30 10:40:07 2013] [debug] Rendering cached inline template.
+[Sat Mar 30 10:40:07 2013] [debug] 404 Not Found (0.005124s, 195.160/s).
+[Sat Mar 30 10:40:25 2013] [info] Listening at "http://*:3000".
+[Sat Mar 30 10:40:27 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Mar 30 10:40:27 2013] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:40:27 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "welcome".
+[Sat Mar 30 10:40:27 2013] [debug] Rendering template "example/welcome.html.ep".
+[Sat Mar 30 10:40:27 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sat Mar 30 10:40:27 2013] [debug] 200 OK (0.015591s, 64.140/s).
+[Sat Mar 30 10:40:31 2013] [debug] GET /welcome (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:40:31 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "welcome2".
+[Sat Mar 30 10:40:31 2013] [debug] Action not found in controller.
+[Sat Mar 30 10:40:31 2013] [debug] Template "example/welcome2.html.ep" not found.
+[Sat Mar 30 10:40:31 2013] [debug] Template "not_found.development.html.ep" not found.
+[Sat Mar 30 10:40:31 2013] [debug] Template "not_found.html.ep" not found.
+[Sat Mar 30 10:40:31 2013] [debug] Rendering inline template.
+[Sat Mar 30 10:40:31 2013] [debug] Rendering inline template.
+[Sat Mar 30 10:40:31 2013] [debug] 404 Not Found (0.018684s, 53.522/s).
+[Sat Mar 30 10:42:21 2013] [info] Listening at "http://*:3000".
+[Sat Mar 30 10:42:25 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Mar 30 10:42:25 2013] [debug] GET /welcome (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:42:25 2013] [debug] Template "not_found.development.html.ep" not found.
+[Sat Mar 30 10:42:25 2013] [debug] Template "not_found.html.ep" not found.
+[Sat Mar 30 10:42:25 2013] [debug] Rendering inline template.
+[Sat Mar 30 10:42:25 2013] [debug] Rendering inline template.
+[Sat Mar 30 10:42:25 2013] [debug] 404 Not Found (0.016260s, 61.501/s).
+[Sat Mar 30 10:42:27 2013] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:42:27 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "welcome".
+[Sat Mar 30 10:42:27 2013] [debug] Rendering template "example/welcome.html.ep".
+[Sat Mar 30 10:42:28 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sat Mar 30 10:42:28 2013] [debug] 200 OK (0.013776s, 72.590/s).
+[Sat Mar 30 10:42:38 2013] [info] Listening at "http://*:3000".
+[Sat Mar 30 10:42:41 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Mar 30 10:42:41 2013] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:42:41 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "welcome".
+[Sat Mar 30 10:42:41 2013] [debug] Rendering template "example/welcome.html.ep".
+[Sat Mar 30 10:42:41 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sat Mar 30 10:42:41 2013] [debug] 200 OK (0.017065s, 58.599/s).
+[Sat Mar 30 10:42:43 2013] [debug] GET /welcome (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:42:43 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "welcome2".
+[Sat Mar 30 10:42:43 2013] [debug] Action not found in controller.
+[Sat Mar 30 10:42:43 2013] [debug] Template "example/welcome2.html.ep" not found.
+[Sat Mar 30 10:42:43 2013] [debug] Template "not_found.development.html.ep" not found.
+[Sat Mar 30 10:42:43 2013] [debug] Template "not_found.html.ep" not found.
+[Sat Mar 30 10:42:43 2013] [debug] Rendering inline template.
+[Sat Mar 30 10:42:43 2013] [debug] Rendering inline template.
+[Sat Mar 30 10:42:43 2013] [debug] 404 Not Found (0.019932s, 50.171/s).
+[Sat Mar 30 10:43:07 2013] [debug] GET /welcome (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:43:07 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "welcome2".
+[Sat Mar 30 10:43:07 2013] [debug] Action not found in controller.
+[Sat Mar 30 10:43:07 2013] [debug] Template "example/welcome2.html.ep" not found.
+[Sat Mar 30 10:43:07 2013] [debug] Template "not_found.development.html.ep" not found.
+[Sat Mar 30 10:43:07 2013] [debug] Template "not_found.html.ep" not found.
+[Sat Mar 30 10:43:07 2013] [debug] Rendering cached inline template.
+[Sat Mar 30 10:43:07 2013] [debug] Rendering cached inline template.
+[Sat Mar 30 10:43:07 2013] [debug] 404 Not Found (0.007892s, 126.711/s).
+[Sat Mar 30 10:43:29 2013] [info] Listening at "http://*:3000".
+[Sat Mar 30 10:43:31 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Mar 30 10:43:31 2013] [debug] GET /welcome (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:43:31 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "welcome2".
+[Sat Mar 30 10:43:31 2013] [debug] Action not found in controller.
+[Sat Mar 30 10:43:31 2013] [debug] Template "example/welcome2.html.ep" not found.
+[Sat Mar 30 10:43:31 2013] [debug] Template "not_found.development.html.ep" not found.
+[Sat Mar 30 10:43:31 2013] [debug] Template "not_found.html.ep" not found.
+[Sat Mar 30 10:43:31 2013] [debug] Rendering inline template.
+[Sat Mar 30 10:43:31 2013] [debug] Rendering inline template.
+[Sat Mar 30 10:43:31 2013] [debug] 404 Not Found (0.021098s, 47.398/s).
+[Sat Mar 30 10:43:35 2013] [debug] GET /www (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:43:35 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "welcome2".
+[Sat Mar 30 10:43:35 2013] [debug] Action not found in controller.
+[Sat Mar 30 10:43:35 2013] [debug] Template "example/welcome2.html.ep" not found.
+[Sat Mar 30 10:43:35 2013] [debug] Template "not_found.development.html.ep" not found.
+[Sat Mar 30 10:43:35 2013] [debug] Template "not_found.html.ep" not found.
+[Sat Mar 30 10:43:35 2013] [debug] Rendering cached inline template.
+[Sat Mar 30 10:43:35 2013] [debug] Rendering cached inline template.
+[Sat Mar 30 10:43:35 2013] [debug] 404 Not Found (0.007643s, 130.839/s).
+[Sat Mar 30 10:44:08 2013] [info] Listening at "http://*:3000".
+[Sat Mar 30 10:44:09 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Mar 30 10:44:09 2013] [debug] GET /www (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:44:09 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "welcome2".
+[Sat Mar 30 10:44:09 2013] [debug] Action not found in controller.
+[Sat Mar 30 10:44:09 2013] [debug] Template "example/welcome2.html.ep" not found.
+[Sat Mar 30 10:44:09 2013] [debug] Template "not_found.development.html.ep" not found.
+[Sat Mar 30 10:44:09 2013] [debug] Template "not_found.html.ep" not found.
+[Sat Mar 30 10:44:09 2013] [debug] Rendering inline template.
+[Sat Mar 30 10:44:09 2013] [debug] Rendering inline template.
+[Sat Mar 30 10:44:09 2013] [debug] 404 Not Found (0.019703s, 50.754/s).
+[Sat Mar 30 10:44:18 2013] [debug] GET /www (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:44:18 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "welcome2".
+[Sat Mar 30 10:44:18 2013] [debug] Action not found in controller.
+[Sat Mar 30 10:44:18 2013] [debug] Template "example/welcome2.html.ep" not found.
+[Sat Mar 30 10:44:18 2013] [debug] Template "not_found.development.html.ep" not found.
+[Sat Mar 30 10:44:18 2013] [debug] Template "not_found.html.ep" not found.
+[Sat Mar 30 10:44:18 2013] [debug] Rendering cached inline template.
+[Sat Mar 30 10:44:18 2013] [debug] Rendering cached inline template.
+[Sat Mar 30 10:44:18 2013] [debug] 404 Not Found (0.005436s, 183.959/s).
+[Sat Mar 30 10:44:33 2013] [info] Listening at "http://*:3000".
+[Sat Mar 30 10:44:35 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Mar 30 10:44:35 2013] [debug] GET /www (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:44:35 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "welcome2".
+[Sat Mar 30 10:44:35 2013] [debug] Action not found in controller.
+[Sat Mar 30 10:44:35 2013] [debug] Template "example/welcome2.html.ep" not found.
+[Sat Mar 30 10:44:35 2013] [debug] Template "not_found.development.html.ep" not found.
+[Sat Mar 30 10:44:35 2013] [debug] Template "not_found.html.ep" not found.
+[Sat Mar 30 10:44:35 2013] [debug] Rendering inline template.
+[Sat Mar 30 10:44:35 2013] [debug] Rendering inline template.
+[Sat Mar 30 10:44:35 2013] [debug] 404 Not Found (0.019002s, 52.626/s).
+[Sat Mar 30 10:45:06 2013] [info] Listening at "http://*:3000".
+[Sat Mar 30 10:45:08 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Mar 30 10:45:08 2013] [debug] GET /www (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:45:08 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "welcome".
+[Sat Mar 30 10:45:08 2013] [debug] Rendering template "example/welcome.html.ep".
+[Sat Mar 30 10:45:08 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sat Mar 30 10:45:08 2013] [debug] 200 OK (0.018551s, 53.905/s).
+[Sat Mar 30 10:45:15 2013] [debug] GET /welcome (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:45:15 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "welcome".
+[Sat Mar 30 10:45:15 2013] [debug] Rendering cached template example/welcome.html.ep.
+[Sat Mar 30 10:45:15 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sat Mar 30 10:45:15 2013] [debug] 200 OK (0.002217s, 451.060/s).
+[Sat Mar 30 10:45:17 2013] [debug] GET /welcomew (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:45:17 2013] [debug] Template "not_found.development.html.ep" not found.
+[Sat Mar 30 10:45:17 2013] [debug] Template "not_found.html.ep" not found.
+[Sat Mar 30 10:45:17 2013] [debug] Rendering inline template.
+[Sat Mar 30 10:45:17 2013] [debug] Rendering inline template.
+[Sat Mar 30 10:45:17 2013] [debug] 404 Not Found (0.021999s, 45.457/s).
+[Sat Mar 30 10:45:36 2013] [debug] GET /welcome (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:45:36 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "welcome".
+[Sat Mar 30 10:45:36 2013] [debug] Rendering cached template example/welcome.html.ep.
+[Sat Mar 30 10:45:36 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sat Mar 30 10:45:36 2013] [debug] 200 OK (0.001735s, 576.369/s).
+[Sat Mar 30 10:45:39 2013] [info] Listening at "http://*:3000".
+[Sat Mar 30 10:45:41 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Mar 30 10:45:41 2013] [debug] GET /welcome (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:45:41 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "welcome2".
+[Sat Mar 30 10:45:41 2013] [debug] Template "example/welcome2.html.ep" not found.
+[Sat Mar 30 10:45:41 2013] [debug] Template "example/welcome2.html.ep" not found.
+[Sat Mar 30 10:45:41 2013] [debug] Nothing has been rendered, expecting delayed response.
+[Sat Mar 30 10:45:56 2013] [debug] Inactivity timeout.
+[Sat Mar 30 10:46:00 2013] [debug] GET /www (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:46:00 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "welcome2".
+[Sat Mar 30 10:46:00 2013] [debug] Template "example/welcome2.html.ep" not found.
+[Sat Mar 30 10:46:00 2013] [debug] Template "example/welcome2.html.ep" not found.
+[Sat Mar 30 10:46:00 2013] [debug] Nothing has been rendered, expecting delayed response.
+[Sat Mar 30 10:46:15 2013] [debug] Inactivity timeout.
+[Sat Mar 30 10:46:19 2013] [info] Listening at "http://*:3000".
+[Sat Mar 30 10:46:21 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Mar 30 10:46:21 2013] [debug] GET /www (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:46:21 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "welcome2".
+[Sat Mar 30 10:46:21 2013] [debug] Template "example/welcome2.html.ep" not found.
+[Sat Mar 30 10:46:21 2013] [debug] Template "example/welcome2.html.ep" not found.
+[Sat Mar 30 10:46:21 2013] [debug] Nothing has been rendered, expecting delayed response.
+[Sat Mar 30 10:46:37 2013] [debug] Inactivity timeout.
+[Sat Mar 30 10:46:48 2013] [debug] GET /www (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:46:48 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "welcome2".
+[Sat Mar 30 10:46:48 2013] [debug] Template "example/welcome2.html.ep" not found.
+[Sat Mar 30 10:46:48 2013] [debug] Template "example/welcome2.html.ep" not found.
+[Sat Mar 30 10:46:48 2013] [debug] Nothing has been rendered, expecting delayed response.
+[Sat Mar 30 10:46:51 2013] [info] Listening at "http://*:3000".
+[Sat Mar 30 10:46:52 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Mar 30 10:46:52 2013] [debug] GET /www (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:46:52 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "welcome2".
+[Sat Mar 30 10:46:52 2013] [debug] Template "welcome.html.ep" not found.
+[Sat Mar 30 10:46:52 2013] [debug] Template "example/welcome2.html.ep" not found.
+[Sat Mar 30 10:46:52 2013] [debug] Nothing has been rendered, expecting delayed response.
+[Sat Mar 30 10:47:08 2013] [debug] Inactivity timeout.
+[Sat Mar 30 10:47:11 2013] [info] Listening at "http://*:3000".
+[Sat Mar 30 10:47:13 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Mar 30 10:47:13 2013] [debug] GET /www (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:47:13 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "welcome2".
+[Sat Mar 30 10:47:13 2013] [debug] Template "exmaple/welcome.html.ep" not found.
+[Sat Mar 30 10:47:13 2013] [debug] Template "example/welcome2.html.ep" not found.
+[Sat Mar 30 10:47:13 2013] [debug] Nothing has been rendered, expecting delayed response.
+[Sat Mar 30 10:47:28 2013] [debug] Inactivity timeout.
+[Sat Mar 30 10:47:32 2013] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:47:32 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "welcome".
+[Sat Mar 30 10:47:32 2013] [debug] Rendering template "example/welcome.html.ep".
+[Sat Mar 30 10:47:32 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sat Mar 30 10:47:32 2013] [debug] 200 OK (0.019023s, 52.568/s).
+[Sat Mar 30 10:49:33 2013] [info] Listening at "http://*:3000".
+[Sat Mar 30 10:49:38 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Mar 30 10:49:38 2013] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:49:38 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "welcome".
+[Sat Mar 30 10:49:38 2013] [debug] Rendering template "example/welcome.html.ep".
+[Sat Mar 30 10:49:38 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sat Mar 30 10:49:38 2013] [debug] 200 OK (0.014678s, 68.129/s).
+[Sat Mar 30 10:49:40 2013] [debug] GET /www (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:49:40 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "welcome2".
+[Sat Mar 30 10:49:40 2013] [debug] Template "exmaple/welcome.html.ep" not found.
+[Sat Mar 30 10:49:40 2013] [debug] Template "example/welcome2.html.ep" not found.
+[Sat Mar 30 10:49:40 2013] [debug] Nothing has been rendered, expecting delayed response.
+[Sat Mar 30 10:49:55 2013] [debug] Inactivity timeout.
+[Sat Mar 30 10:49:55 2013] [debug] GET /www (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:49:55 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "welcome2".
+[Sat Mar 30 10:49:55 2013] [debug] Template "exmaple/welcome.html.ep" not found.
+[Sat Mar 30 10:49:55 2013] [debug] Template "example/welcome2.html.ep" not found.
+[Sat Mar 30 10:49:55 2013] [debug] Nothing has been rendered, expecting delayed response.
+[Sat Mar 30 10:50:11 2013] [debug] Inactivity timeout.
+[Sat Mar 30 10:51:33 2013] [info] Listening at "http://*:3000".
+[Sat Mar 30 10:51:36 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Mar 30 10:51:36 2013] [debug] GET /www (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:51:36 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "welcome2".
+[Sat Mar 30 10:51:36 2013] [debug] Template "exmaple/welcome.html.ep" not found.
+[Sat Mar 30 10:51:36 2013] [debug] Template "example/welcome2.html.ep" not found.
+[Sat Mar 30 10:51:36 2013] [debug] Nothing has been rendered, expecting delayed response.
+[Sat Mar 30 10:51:51 2013] [debug] Inactivity timeout.
+[Sat Mar 30 10:52:34 2013] [info] Listening at "http://*:3000".
+[Sat Mar 30 10:52:38 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Mar 30 10:52:38 2013] [debug] GET /www (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:52:38 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "welcome2".
+[Sat Mar 30 10:52:38 2013] [debug] 200 OK (0.001224s, 816.993/s).
+[Sat Mar 30 10:53:20 2013] [info] Listening at "http://*:3000".
+[Sat Mar 30 10:53:23 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Mar 30 10:53:23 2013] [debug] GET /www (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:53:23 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "welcome2".
+[Sat Mar 30 10:53:23 2013] [debug] 200 OK (0.002320s, 431.034/s).
+[Sat Mar 30 10:53:34 2013] [info] Listening at "http://*:3000".
+[Sat Mar 30 10:53:35 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Mar 30 10:53:35 2013] [debug] GET /www (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:53:35 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "welcome2".
+[Sat Mar 30 10:53:35 2013] [debug] Template "exmaple/welcome.html.ep" not found.
+[Sat Mar 30 10:53:35 2013] [debug] Template "example/welcome2.html.ep" not found.
+[Sat Mar 30 10:53:35 2013] [debug] Nothing has been rendered, expecting delayed response.
+[Sat Mar 30 10:53:46 2013] [debug] GET /www (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:53:46 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "welcome2".
+[Sat Mar 30 10:53:46 2013] [debug] Template "exmaple/welcome.html.ep" not found.
+[Sat Mar 30 10:53:46 2013] [debug] Template "example/welcome2.html.ep" not found.
+[Sat Mar 30 10:53:46 2013] [debug] Nothing has been rendered, expecting delayed response.
+[Sat Mar 30 10:53:48 2013] [info] Listening at "http://*:3000".
+[Sat Mar 30 10:53:50 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Mar 30 10:53:50 2013] [debug] GET /www (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:53:50 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "welcome2".
+[Sat Mar 30 10:53:50 2013] [debug] Rendering template "example/welcome.html.ep".
+[Sat Mar 30 10:53:50 2013] [error] Global symbol "$message" requires explicit package name at template example/welcome.html.ep line 3.
+1: % layout 'default';
+2: % title 'Welcome';
+3: <h2><%= $message %></h2>
+4: This page was generated from the template "templates/example/welcome.html.ep"
+5: and the layout "templates/layouts/default.html.ep",
+6: <a href="<%== url_for %>">click here</a> to reload the page or
+7: <a href="/index.html">here</a> to move forward to a static page.
+
+[Sat Mar 30 10:53:50 2013] [debug] Template "exception.development.html.ep" not found.
+[Sat Mar 30 10:53:50 2013] [debug] Template "exception.html.ep" not found.
+[Sat Mar 30 10:53:50 2013] [debug] Rendering inline template.
+[Sat Mar 30 10:53:50 2013] [debug] Rendering inline template.
+[Sat Mar 30 10:53:50 2013] [debug] 500 Internal Server Error (0.041198s, 24.273/s).
+[Sat Mar 30 10:54:03 2013] [debug] GET /www (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:54:03 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "welcome2".
+[Sat Mar 30 10:54:03 2013] [debug] Rendering template "example/welcome.html.ep".
+[Sat Mar 30 10:54:03 2013] [error] Global symbol "$message" requires explicit package name at template example/welcome.html.ep line 3.
+1: % layout 'default';
+2: % title 'Welcome';
+3: <h2><%= $message %></h2>
+4: This page was generated from the template "templates/example/welcome.html.ep"
+5: and the layout "templates/layouts/default.html.ep",
+6: <a href="<%== url_for %>">click here</a> to reload the page or
+7: <a href="/index.html">here</a> to move forward to a static page.
+
+[Sat Mar 30 10:54:03 2013] [debug] Template "exception.development.html.ep" not found.
+[Sat Mar 30 10:54:03 2013] [debug] Template "exception.html.ep" not found.
+[Sat Mar 30 10:54:03 2013] [debug] Rendering cached inline template.
+[Sat Mar 30 10:54:03 2013] [debug] Rendering cached inline template.
+[Sat Mar 30 10:54:03 2013] [debug] 500 Internal Server Error (0.017749s, 56.341/s).
+[Sat Mar 30 10:54:06 2013] [info] Listening at "http://*:3000".
+[Sat Mar 30 10:54:07 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Mar 30 10:54:07 2013] [debug] GET /www (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Sat Mar 30 10:54:07 2013] [debug] Routing to controller "Compare::Morphology::Example" and action "welcome2".
+[Sat Mar 30 10:54:07 2013] [debug] Rendering template "example/welcome.html.ep".
+[Sat Mar 30 10:54:07 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sat Mar 30 10:54:07 2013] [debug] 200 OK (0.025623s, 39.027/s).
