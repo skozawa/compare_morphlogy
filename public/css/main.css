@@ -1,0 +1,27 @@
+.morph-pattern-name {
+    padding: 4px;
+    color: #ffffff;
+    text-align: center;
+    text-decoration: none;
+    background-color: #000000;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    display: inline-block;
+}
+
+.morph-analysis-result {
+    position: relative;
+    left: 30px;
+    margin: 10px;
+}
+
+.morph {
+    border-right: solid 1px #8d8d67;
+    margin-right: 3px;
+    margin-left: 3px;
+}
+
+.diff-morph {
+    color : red;
+}

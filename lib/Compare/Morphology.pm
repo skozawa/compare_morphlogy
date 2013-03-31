@@ -12,7 +12,9 @@ sub startup {
   my $r = $self->routes;
 
   # Normal route to controller
-  $r->get('/')->to('example#index');
+  $r->get('/')->to(controller => 'root', action => 'index');
+  $r->get('/analysis')->to(controller => 'root', action => 'index');
+  $r->post('/analysis')->to(controller => 'root', action => 'analysis');
 }
 
 1;
